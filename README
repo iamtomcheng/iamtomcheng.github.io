@@ -1,0 +1,3 @@
+sftp hccheng@sftp.itd.umich.edu
+
+put <local files> <ftp location>
